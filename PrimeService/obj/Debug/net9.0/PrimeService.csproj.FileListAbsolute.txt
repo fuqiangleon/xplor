@@ -1,0 +1,11 @@
+/Users/hugo/codes/work/unit-testing-using-dotnet-test/PrimeService/bin/Debug/net9.0/PrimeService.deps.json
+/Users/hugo/codes/work/unit-testing-using-dotnet-test/PrimeService/bin/Debug/net9.0/PrimeService.dll
+/Users/hugo/codes/work/unit-testing-using-dotnet-test/PrimeService/bin/Debug/net9.0/PrimeService.pdb
+/Users/hugo/codes/work/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net9.0/PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hugo/codes/work/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net9.0/PrimeService.AssemblyInfoInputs.cache
+/Users/hugo/codes/work/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net9.0/PrimeService.AssemblyInfo.cs
+/Users/hugo/codes/work/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net9.0/PrimeService.csproj.CoreCompileInputs.cache
+/Users/hugo/codes/work/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net9.0/PrimeService.dll
+/Users/hugo/codes/work/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net9.0/refint/PrimeService.dll
+/Users/hugo/codes/work/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net9.0/PrimeService.pdb
+/Users/hugo/codes/work/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net9.0/ref/PrimeService.dll
